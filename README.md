@@ -16,11 +16,15 @@ Http Layers for Clients like Guzzle, Symfony and others. Check this project [her
 
 :heavy_check_mark: [Symfony Layer](https://github.com/easy-http/symfony-layer)
 
+<hr />
+
 <img src="https://blog.pleets.org/img/articles/awesome-php-code-icon.jpg" width="100">
 
 Awesome PHP Code is a project to share good practices, patterns and other interesting things about PHP.
 
 :heavy_check_mark: [Iterator Pattern](https://github.com/awesome-php-code/iterator-pattern)
+
+<hr />
 
 <img src="https://blog.pleets.org/img/articles/payment-gateways-logo.png" width="100">
 
