@@ -28,6 +28,6 @@ Awesome PHP Code is a project to share good practices, patterns and other intere
 
 <img src="https://blog.pleets.org/img/articles/payment-gateways-logo.png" width="100">
 
-Payment Gateways is a project when you can find some integrations to process payments in a website. Actually we only support PayPal.
+Payment Gateways is a project when you can find some integrations to process payments in a website. Currently we only support PayPal.
 
 :heavy_check_mark: [PayPal SDK](https://github.com/payment-gateways/paypal-sdk)
