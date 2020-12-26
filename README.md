@@ -10,7 +10,7 @@ Take a look of some of my opensource projects in GitHub :octocat:.
 
 <img src="https://blog.pleets.org/img/articles/easy-http-logo.png" width="100">
 
-Http Layers for Clients like Guzzle, Symfony and others. Check this project [here](https://github.com/easy-http)! or check the reports in the following links.
+Http Layers for Clients like Guzzle, Symfony and others. Check this project [here](https://github.com/easy-http)! or check the repos in the following links.
 
 :heavy_check_mark: [Guzzle Layer](https://github.com/easy-http/guzzle-layer)
 
