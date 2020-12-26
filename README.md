@@ -21,3 +21,9 @@ Http Layers for Clients like Guzzle, Symfony and others. Check this project [her
 Awesome PHP Code is a project to share good practices, patterns and other interesting things about PHP.
 
 :heavy_check_mark: [Iterator Pattern](https://github.com/awesome-php-code/iterator-pattern)
+
+<img src="https://blog.pleets.org/img/articles/payment-gateways-logo.png" width="100">
+
+Payment Gateways is a project when you can find some integrations to process payments in a website. Actually we only support PayPal.
+
+:heavy_check_mark: [PayPal SDK](https://github.com/payment-gateways/paypal-sdk)
