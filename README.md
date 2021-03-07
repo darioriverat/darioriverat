@@ -1,7 +1,7 @@
 # Hi :smiley:, I'm Darío
 
 I'm a software developer who is passionate about the web. I love programming with PHP and Laravel.
-Often I write articules in my own blog [Pleets](https://blog.pleets.org) (in Spanish). You can check it out to know what I'm doing right now :computer:.
+Often I write articles in my own blog [Pleets](https://blog.pleets.org) (in Spanish). You can check it out to know what I'm doing right now :computer:.
 
 Currently I'm working at [PlacetoPay - Evertec](https://www.placetopay.com/) :office: in Medellín, Colombia.
 Do you need a secure payment gateway for your website ? Do not hesitate to call us :ok_hand:.
