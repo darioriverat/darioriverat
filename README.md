@@ -23,6 +23,7 @@ Http Layers for Clients like Guzzle, Symfony and others. Check this project [her
 Awesome PHP Code is a project to share good practices, patterns and other interesting things about PHP.
 
 :heavy_check_mark: [Iterator Pattern](https://github.com/awesome-php-code/iterator-pattern)
+:heavy_check_mark: [Sorting Algorithms](https://github.com/awesome-php-code/sorting-algorithms)
 
 <hr />
 
