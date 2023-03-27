@@ -3,7 +3,7 @@
 I'm a software developer who is passionate about the web. I love programming with PHP and Laravel.
 Often I write articles in my own blog [Pleets](https://blog.pleets.org) (in Spanish). You can check it out to know what I'm doing right now :computer:.
 
-Currently living in Medellín, Colombia 🇨🇴.
+Proudly Colombian 🇨🇴, currently living in Kingston, ON 🇨🇦.
 
 Take a look of some of my opensource projects in GitHub :octocat:.
 
