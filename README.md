@@ -11,9 +11,9 @@ Take a look of some of my opensource projects in GitHub :octocat:.
 
 Http Layers for Clients like Guzzle, Symfony and others. Check this project [here](https://github.com/easy-http)! or check the repos in the following links.
 
-:heavy_check_mark: [Guzzle Layer](https://github.com/easy-http/guzzle-layer)
+:heavy_check_mark: [Guzzle Adapter](https://github.com/easy-http/guzzle-adapter)
 
-:heavy_check_mark: [Symfony Layer](https://github.com/easy-http/symfony-layer)
+:heavy_check_mark: [Symfony Adapter](https://github.com/easy-http/symfony-adapter)
 
 <hr />
 
